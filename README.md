@@ -19,3 +19,6 @@ https://www.kaggle.com/datasets/ifteshanajnin/carinsuranceclaimprediction-classi
 <a target="_blank" href="https://colab.research.google.com/github/andres-calvo/modelos-1/blob/master/01-exploracion-primer-modelo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Enlace de Video en Youtube
+https://www.youtube.com/watch?v=CxLLWQqdxwg
