@@ -32,3 +32,7 @@ https://www.youtube.com/watch?v=CxLLWQqdxwg
 <a target="_blank" href="https://colab.research.google.com/github/andres-calvo/modelos-1/blob/master/02-exploracion-modelo-final.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Enlace de Video Final en Youtube
+
+https://youtu.be/JJzL143TO_s
